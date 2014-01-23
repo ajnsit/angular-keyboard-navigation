@@ -1,0 +1,21 @@
+{
+  "author": "Anupam Jain",
+  "name": "angular-keyboard-navigation",
+  "version": "0.0.1",
+  "main": [
+    "navigation.js",
+    "directives/NavKeys.js",
+    "directives/NavKeyFocus.js",
+    "directives/Nav.js",
+    "directives/NavElem.js",
+    "directives/NavTarget.js"
+  ],
+  "ignore": [
+    ".jshintrc",
+    ".editorconfig"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2"
+  }
+}
+
